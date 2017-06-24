@@ -5,3 +5,9 @@ vendor/firmware/BCM4345C0_003.001.025.0104.0142_Alice_ORC.hcd:vendor/firmware/BC
 etc/firmware/fw_bcmdhd.bin
 etc/firmware/fw_bcmdhd_apsta.bin
 etc/firmware/fw_bcmdhd_mfg.bin
+
+# Camera libs
+lib64/libfilter-sdk.so
+lib64/libopbaselib.so
+lib64/libopcameralib.so
+lib64/libopcamera.so
