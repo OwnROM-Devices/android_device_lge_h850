@@ -6,10 +6,10 @@
     "revision": "cm-14.1"
   },
   {
-    "repository": "LineageOS/android_device_lge_msm8996-common",
+    "repository": "OwnROM/android_device_lge_msm8996-common",
     "target_path": "device/lge/msm8996-common",
     "remote": "github",
-    "revision": "cm-14.1"
+    "revision": "own-n"
   },
   {
     "repository": "LineageOS/android_device_qcom_common",
